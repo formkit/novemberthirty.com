@@ -17,18 +17,10 @@
         <h2 class="text-3xl font-bold mb-6 text-center">About the Podcast</h2>
         <div class="text-lg text-gray-300 leading-relaxed space-y-4">
           <p>
-            We're committing to multiple years of chronicling the transition to a post-AI world. 
-            It's called "November Thirty" (the date ChatGPT came out), and each episode has a short 
-            digest and commentary on what's happening in the AI space—not developer focused at all.
-          </p>
-          <p>
-            Then we're going to have a guest on to talk about how AI is affecting them, their industry, 
-            their family, and more. It's intended to be much bigger picture than just "how does it help me program" 
-            and more like "what value do I have as a person in this new world."
-          </p>
-          <p>
-            We're going to have on professors, truck drivers, doctors, politicians, and others to try and 
-            document this moment in time and what it means for all of us as humans with love and ambition.
+            NovemberThirty tells the stories of people transitioning to a post-AI world. Episodes drop once a week,
+            with a new guest each week. We discuss how AI is affecting them, their industry,
+            their family, and what they believe followed by the hosts discussing the interview and the latest
+            developments in AI.
           </p>
         </div>
       </div>
