@@ -240,7 +240,7 @@
           alt="NovemberThirty"
           class="w-16 h-16 mx-auto mb-4 rounded-full border-2 border-white"
         />
-        <p class="text-gray-400">© 2024 NovemberThirty Podcast</p>
+        <p class="text-gray-400">© {{ new Date().getFullYear() }} NovemberThirty Podcast</p>
       </div>
     </footer>
   </div>
